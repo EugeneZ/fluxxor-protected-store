@@ -1,0 +1,18 @@
+{
+  "name": "fluxxor-protected-store",
+  "version": "0.0.1",
+  "description": "Small utility to help generate stores in Fluxxor with support for enhancements like private methods",
+  "author": "Eugene Zaretskiy <eugene.zar@gmail.com>",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/EugeneZ/fluxxor-protected-store"
+  },
+  "bugs": {
+    "url": "https://github.com/EugeneZ/fluxxor-protected-store/issues"
+  },
+  "keywords": [
+    "fluxxor"
+  ],
+  "license": "MIT"
+}
